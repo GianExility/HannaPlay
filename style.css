@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+   
+}
+.container{
+  background-color: rgb(177, 149, 26); 
+  color: white; 
+  
+}
+#app {
+    background-color: rgb(11, 188, 129);
+    font-family:"Pixelify Sans", cursive ;
+}
+
+#myCarousel
+{
+    background-color: rgb(160, 231, 202);
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 50px;
+    margin:0 auto;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : rgb(76, 70, 70);
+    font-size: 20px;
+    margin: 0 auto;
+    
+}
+
+#message{
+  font-size : 70px;
+}
+
